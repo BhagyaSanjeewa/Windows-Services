@@ -1,0 +1,14 @@
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\bin\Debug\AutoIssueLA_301.exe.config
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\bin\Debug\AutoIssueLA_301.exe
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\bin\Debug\AutoIssueLA_301.pdb
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\bin\Debug\AutoIssueLA301BLL.dll
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\bin\Debug\AutoIssueLA301UserObjects.dll
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\bin\Debug\AutoIssueLA301DAL.dll
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\bin\Debug\AutoIssueLA301BLL.pdb
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\bin\Debug\AutoIssueLA301UserObjects.pdb
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\bin\Debug\AutoIssueLA301DAL.pdb
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\obj\x86\Debug\AutoIssueLA_301.csprojResolveAssemblyReference.cache
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\obj\x86\Debug\AutoIssueLA_301.ProjectInstaller.resources
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\obj\x86\Debug\AutoIssueLA_301.csproj.GenerateResource.Cache
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\obj\x86\Debug\AutoIssueLA_301.exe
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA_301\obj\x86\Debug\AutoIssueLA_301.pdb

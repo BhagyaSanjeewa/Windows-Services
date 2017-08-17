@@ -1,0 +1,4 @@
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA301DAL\bin\Debug\AutoIssueLA301DAL.dll
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA301DAL\bin\Debug\AutoIssueLA301DAL.pdb
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA301DAL\obj\Debug\AutoIssueLA301DAL.dll
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA301DAL\obj\Debug\AutoIssueLA301DAL.pdb

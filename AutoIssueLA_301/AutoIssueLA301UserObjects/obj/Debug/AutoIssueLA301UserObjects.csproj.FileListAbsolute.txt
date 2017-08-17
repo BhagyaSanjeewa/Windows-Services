@@ -1,0 +1,4 @@
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA301UserObjects\bin\Debug\AutoIssueLA301UserObjects.dll
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA301UserObjects\bin\Debug\AutoIssueLA301UserObjects.pdb
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA301UserObjects\obj\Debug\AutoIssueLA301UserObjects.dll
+C:\Users\bhagya.sanjeewa\Documents\Visual Studio 2010\Projects\AutoIssueLA_301\AutoIssueLA301UserObjects\obj\Debug\AutoIssueLA301UserObjects.pdb
